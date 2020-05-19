@@ -864,4 +864,6 @@ Link: [click](https://ru.wikipedia.org/wiki/Порт_(компьютерные_�
 | TCP используется HTTP, HTTPs, FTP, SMTP и Telnet. | Протокол UDP используется DNS, сервер DHCP, сервер TFTP, SNMP, RIP, и VoIP. |
   
 [UP Table of contents](#Contents)  
+  
+**Author:** *[Mark Veligod](https://github.com/markveligod)*  
 
