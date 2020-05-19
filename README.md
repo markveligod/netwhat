@@ -22,7 +22,7 @@
 ### Description  
 Данные тесты позволят потренироваться перед реальным тестированием на сайте netwhat.42.fr. Также добавил русский язык для более комфортной тренировки. Для запуска тестов пропишите команду `./netwhat42 37`  
 Удачи!  
-![](https://github.com/markveligod/netwhat/raw/master/img/.png)  
+![](https://github.com/markveligod/netwhat/raw/master/img/23.png)  
 Link: [click](https://github.com/adblanc/netwhat42-train)
 
 ## What is an IP address ?<a name="IPaddress"></a>
