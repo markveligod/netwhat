@@ -1,5 +1,6 @@
-# :black_square_button: Netwhat (project 2020) 
+# :white_check_mark: Netwhat (project 2020) 
 ## Table of contents <a name="Contents"></a>
+* [Netwhat train test's](#test)
 * [What is an IP address ?](#IPaddress)  
 * [What is a Netmask ?](#Netmask)
 * [What is the subnet of an IP with Netmask ?](#IPwithNetmask)
@@ -16,6 +17,13 @@
 * [What is a default gateway for routing ?](#gateway)
 * [What is a port from an IP point of view and what is it used for when connecting to another device ?](#device)
 * [Table of differences between TCP and UDP](#table)
+
+## Netwhat train test's
+### Description  
+Данные тесты позволят потренироваться перед реальным тестированием на сайте netwhat.42.fr. Также добавил русский язык для более комфортной тренировки. Для запуска тестов пропишите команду `./netwhat42 37`
+Удачи!  
+![](https://github.com/markveligod/netwhat/raw/master/img/.png)  
+Link: [click](https://github.com/adblanc/netwhat42-train)
 
 ## What is an IP address ?<a name="IPaddress"></a>
 Адрес интернет-протокола (IP-адрес) - это числовая метка, присваиваемая каждому устройству, подключенному к компьютерной сети, использующей Интернет-протокол для связи.  
