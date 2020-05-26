@@ -20,10 +20,10 @@
 
 ## Netwhat train test's <a name="test"></a>
 ### Description  
-Данные тесты позволят потренироваться перед реальным тестированием на сайте netwhat.42.fr. Также добавил русский язык для более комфортной тренировки. Для запуска тестов пропишите команду `./netwhat42 37`  
+Данные тесты позволят потренироваться перед реальным тестированием на сайте netwhat.42.fr. Для запуска тестов пропишите команду `./netwhat42 37`  
+Link to the test: [click](https://github.com/adblanc/netwhat42-train)  
 Удачи!  
 ![](https://github.com/markveligod/netwhat/raw/master/img/23.png)  
-Link: [click](https://github.com/adblanc/netwhat42-train)
 
 ## What is an IP address ?<a name="IPaddress"></a>
 Адрес интернет-протокола (IP-адрес) - это числовая метка, присваиваемая каждому устройству, подключенному к компьютерной сети, использующей Интернет-протокол для связи.  
